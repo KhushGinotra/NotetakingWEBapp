@@ -1,4 +1,1 @@
-# NotetakingWEBapp
-# NotetakingWEBapp
-# NotetakingWEBapp
-# NotetakingWEBapp
+#This a Practice Web app to do note taking locally 
